@@ -3,3 +3,6 @@ DAX (Data Analysis Expressions) queries have been an integral part of this work.
 
 All the csv files here are the data files which you can import into PowerBI and create models from them. The file with PowerBIDesktop file is the one which has all the analytics and interactive dashboards.
 With these data files handy, you just need to download and install the latest version of PowerBI Desktop and import these files into the tool. 
+
+![image](https://github.com/VenkataViswanath/product-sales-analytics-powerbi/assets/42315213/c1bfd137-39b7-475b-8a06-8f76b88ad409)
+
